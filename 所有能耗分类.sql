@@ -1,4 +1,4 @@
-SELECT TOP (1000) [F_EneryItemCode]
+SELECT [F_EneryItemCode]
       ,[F_EnergyItemName]
       ,[F_ItemShowName]
       ,[F_ParentItemCode]
