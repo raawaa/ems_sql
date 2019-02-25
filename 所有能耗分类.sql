@@ -1,0 +1,7 @@
+SELECT TOP (1000) [F_EneryItemCode]
+      ,[F_EnergyItemName]
+      ,[F_ItemShowName]
+      ,[F_ParentItemCode]
+      ,[F_EnergyItemLevel]
+      ,[F_EnergyItemUnit]
+  FROM [EMS_DB].[dbo].[T_DT_EnergyItemDict]
